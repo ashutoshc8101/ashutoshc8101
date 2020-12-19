@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**ashutoshc8101/ashutoshc8101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is Ashutosh Chauhan.
+I like to work on javascript and react projects 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on fossasia/susi.ai and coding-club-iit-jammu/coding-club-iit-jammu.github.io
+    
+- 🌱 I’m currently learning react and redux
+    
+- 👯 I’m looking to collaborate on frontend and backend (nodejs) projects.
+
+- 🤔 I’m looking for help with Kubernetes
+
+- 📫 How to reach me: 
+    - Email: ashutoshc8101@gmail.com
+    - Facebook: https://www.facebook.com/ashutosh.chauhan.353803/
+    - Twitter: https://twitter.com/ashutoshc8101
+    - Instagram: https://www.instagram.com/ashutoshchauhan91/
+    
+- ⚡ Fun fact:
+    NaN is a number
