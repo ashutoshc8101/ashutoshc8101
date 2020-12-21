@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 ![](https://komarev.com/ghpvc/?username=ashutoshc8101&color=brightgreen)
 
 This is Ashutosh Chauhan.
 I like to work on javascript and react projects 
