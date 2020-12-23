@@ -1,7 +1,7 @@
 ### Hi there 👋 <img align="right" src="https://komarev.com/ghpvc/?username=ashutoshc8101&color=brightgreen" />
 
 This is Ashutosh Chauhan.
-I like to work on javascript and react projects 
+I like to work on javascript and react. 
 
 
 - 🔭 I’m currently working on fossasia/susi.ai and coding-club-iit-jammu/coding-club-iit-jammu.github.io
