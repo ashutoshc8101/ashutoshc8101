@@ -6,11 +6,11 @@ I like to work on javascript and react.
 
 - 🔭 I’m currently working on fossasia/susi.ai and coding-club-iit-jammu/coding-club-iit-jammu.github.io
     
-- 🌱 I’m currently learning react and redux
+- 🌱 I’m currently learning angular and jest.
     
 - 👯 I’m looking to collaborate on frontend and backend (nodejs) projects.
 
-- 🤔 I’m looking for help with Kubernetes
+- 🤔 I’m looking for help with testing.
 
 - 📫 How to reach me: 
     - Email: ashutoshc8101@gmail.com
@@ -19,4 +19,4 @@ I like to work on javascript and react.
     - Instagram: https://www.instagram.com/ashutoshchauhan91/
     
 - ⚡ Fun fact:
-    NaN is a number
+     `0.1 + 0.2 !== 0.3`
