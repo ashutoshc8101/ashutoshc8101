@@ -4,7 +4,7 @@ This is Ashutosh Chauhan.
 I like to work on javascript and react. 
 
 
-- 🔭 I’m currently working on fossasia/susi.ai and coding-club-iit-jammu/coding-club-iit-jammu.github.io
+- 🔭 I’m currently working on fossasia/susi.ai and personal projects.
     
 - 🌱 I’m currently learning angular and jest.
     
