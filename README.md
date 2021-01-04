@@ -6,7 +6,7 @@ I like to work on javascript and react.
 
 - 🔭 I’m currently working on fossasia/susi.ai and personal projects.
     
-- 🌱 I’m currently learning angular and jest.
+- 🌱 I’m currently learning angular and jest (react-testing).
     
 - 👯 I’m looking to collaborate on frontend and backend (nodejs) projects.
 
