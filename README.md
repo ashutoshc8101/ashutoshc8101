@@ -20,5 +20,3 @@ I like to work on javascript and react.
     
 - ⚡ Fun fact:
      `0.1 + 0.2 !== 0.3`
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutoshc8101&show_icons=true&theme=graywhite&locale=en" alt="ashutoshc8101" />
