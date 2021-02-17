@@ -3,18 +3,16 @@
 This is Ashutosh Chauhan.
 I like to work on javascript and react. 
 
-
-- 🔭 I’m currently working on fossasia/susi.ai and personal projects.
+- 🔭 I’m currently working on oppia/oppia and fossasia/open-event-server.
     
-- 🌱 I’m currently learning angular and jest (react-testing).
+- 🌱 I’m currently learning angular and angularjs.
     
-- 👯 I’m looking to collaborate on frontend and backend (nodejs) projects.
+- 👯 I’m looking to collaborate on frontend (angular, react) and backend (nodejs, flask) projects.
 
 - 🤔 I’m looking for help with testing.
 
 - 📫 How to reach me: 
     - Email: ashutoshc8101@gmail.com
-    - Facebook: https://www.facebook.com/ashutosh.chauhan.353803/
     - Twitter: https://twitter.com/ashutoshc8101
     - Instagram: https://www.instagram.com/ashutoshchauhan91/
     
