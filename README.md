@@ -1,7 +1,7 @@
 ### Hi there 👋 <img align="right" src="https://komarev.com/ghpvc/?username=ashutoshc8101&color=brightgreen" />
 
 This is Ashutosh Chauhan.
-I like to work on javascript and react. 
+I like to write javascript.
 
 - 🔭 I’m currently working on oppia/oppia and fossasia/open-event-server.
     
