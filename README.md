@@ -18,3 +18,6 @@ I like to write javascript.
     
 - ⚡ Fun fact:
      `0.1 + 0.2 !== 0.3`
+     <br />
+     <br />
+![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashutoshc8101&theme=graywhite&show_icons=true)
