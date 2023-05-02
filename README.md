@@ -2,8 +2,6 @@
 
 This is Ashutosh Chauhan.
 I like to write javascript.
-
-- 🔭 I’m currently working on oppia/oppia and fossasia/open-event-server.
     
 - 🌱 I’m currently learning angular and angularjs.
     
