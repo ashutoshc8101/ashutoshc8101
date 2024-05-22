@@ -4,7 +4,7 @@ I am a software engineer with a strong interest in full-stack technologies. I am
 
 ### ⚡ Tech Stack
 <hr />
-Here are some of the technologies I have picked up in my journey so far.
+Here are some of the technologies I have picked up so far.
 <br /><br />
 <ul>
     <li>React | Express | MongoDB</li>
