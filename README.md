@@ -19,8 +19,8 @@ Here are some of the technologies I have picked up in my journey so far.
 <hr />
 <ul>
     <li> Email - <a href="mailto:ashutoshc8101@gmail.com">ashutoshc8101@gmail.com</a></li>
-    <li> LinkedIn - <a href="https://www.linkedin.com/in/ashutosh-chauhan-3866aa69/">Ashutosh Chauhan</a></li>
     <li> Twitter - <a href="https://twitter.com/ashutoshc8101">@ashutoshc8101</a></li>
+    <li> LinkedIn - <a href="https://www.linkedin.com/in/ashutosh-chauhan-3866aa69/">Ashutosh Chauhan</a></li>
 </ul>
 
 ![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashutoshc8101&theme=graywhite&show_icons=true)
