@@ -1,4 +1,4 @@
-### Hi there 👋 <img align="right" src="https://komarev.com/ghpvc/?username=ashutoshc8101&color=brightgreen" />
+## Hi there, I'm Ashutosh 👋 <img align="right" src="https://komarev.com/ghpvc/?username=ashutoshc8101&color=brightgreen" />
 
 I am a software engineer with a strong interest in full-stack technologies. I am passionate about product development and continuously learning new technologies. My previous projects include work on Oppia Web, IRA, and Therawin.
 
