@@ -23,3 +23,4 @@ Here are some of the technologies I have picked up so far.
     <li> LinkedIn - <a href="https://www.linkedin.com/in/ashutosh-chauhan-3866aa69/">Ashutosh Chauhan</a></li>
 </ul>
 
+![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashutoshc8101&theme=graywhite&show_icons=true)
