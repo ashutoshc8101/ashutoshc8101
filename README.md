@@ -1,18 +1,15 @@
 ## Hi there, I'm Ashutosh 👋 <img align="right" src="https://komarev.com/ghpvc/?username=ashutoshc8101&color=brightgreen" />
 
-I am a software engineer with a strong interest in full-stack technologies. I am passionate about product development and continuously learning new technologies. My previous projects include work on Oppia Web, IRA, and Therawin.
+I am currently working as Software Engineer at [@browserstack](https://github.com/browserstack/). I am passionate about problem solving and continuously learning new technologies. My previous projects include work on Oppia Web, IRA, and Therawin.
 
 ### ⚡ Tech Stack
-<hr />
 Here are some of the technologies I have picked up so far.
-<br /><br />
+<br />
 <ul>
+    <li>AWS EC2 | S3 | RDS | Lambda</li>
     <li>React | Express | MongoDB</li>
     <li>Python | Django | SQL</li>
-    <li>AWS EC2 | S3 | RDS | Lambda</li>
     <li>Angular | Firebase</li>
-    <li>Git | GitHub</li>
-    <li>Flutter</li>
 </ul>
 
 ### 📫 Get in touch: 
@@ -20,6 +17,7 @@ Here are some of the technologies I have picked up so far.
 <ul>
     <li> Email - <a href="mailto:ashutoshc8101@gmail.com">ashutoshc8101@gmail.com</a></li>
     <li> Twitter - <a href="https://twitter.com/ashutoshc8101">@ashutoshc8101</a></li>
-    <li> LinkedIn - <a href="https://www.linkedin.com/in/ashutosh-chauhan-3866aa69/">Ashutosh Chauhan</a></li>
+    <li> LinkedIn - <a href="https://www.linkedin.com/in/ashutosh-chauhan-3866aa69/">ashutosh-chauhan-3866aa69</a></li>
+    <li>Work profile - <a href="https://github.com/ashutosh624">@ashutosh624</a></li>
 </ul>
 
