@@ -1,6 +1,6 @@
 ## Hi there, I'm Ashutosh 👋 <img align="right" src="https://komarev.com/ghpvc/?username=ashutoshc8101&color=brightgreen" />
 
-I am currently working as Software Engineer at [@browserstack](https://github.com/browserstack/). I am passionate about problem solving and continuously learning new technologies. My previous projects include work on Oppia Web, IRA, and Therawin.
+I am currently working as Software Engineer [@browserstack](https://github.com/browserstack/). I am passionate about problem solving and continuously learning new technologies. My previous projects include work on Oppia Web, IRA, and Therawin.
 
 ### ⚡ Tech Stack
 Here are some of the technologies I have picked up so far.
